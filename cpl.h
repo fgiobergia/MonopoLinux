@@ -1,5 +1,4 @@
 
-
 int load_card (char *dir, char *type, int card, int player) {
 	FILE *fp;
 	int i,d,l,tmp,j,v,n,r,k,du[2];
@@ -589,7 +588,7 @@ int gethotels (void)	-> return the amount of hotels owned by the player*/
 /*Cards programming language
 
 Message:
-A message has to be showed on the card. The first line will be this message.
+A message has to be shown on the card. The first line will be this message.
 
 Comments:
 Each line starting with a '#' will be considered as a 

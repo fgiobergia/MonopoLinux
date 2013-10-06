@@ -1,0 +1,2 @@
+Advance token to the nearest Railway Station and pay owner twice the rental to which he/she is otherwise entitled. If the Railway Station is unowned, you may buy it from the Bank.
+station (2)

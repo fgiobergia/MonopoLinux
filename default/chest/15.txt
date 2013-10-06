@@ -1,0 +1,2 @@
+You inherit $100
+money (100,0)

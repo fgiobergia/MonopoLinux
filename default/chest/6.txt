@@ -1,0 +1,2 @@
+It is your birthday - Collect $10 from each player
+money (10,1)

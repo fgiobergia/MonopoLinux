@@ -1,0 +1,8 @@
+Make general repairs on all your property - for each house pay $25 - for each hotel $100
+h=gethouses()
+t=gethotels()
+h=h*25
+t=t*100
+h=h+t
+h=0-h
+money (h,0)

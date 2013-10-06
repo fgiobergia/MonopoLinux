@@ -1,0 +1,2 @@
+Take a trip to Kings Kross Station - if you pass Go, collect $200
+moveto (5)

@@ -1,0 +1,2 @@
+Go directly to Jail - do not pass Go, do not collect $200
+injail ()

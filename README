@@ -1,0 +1,12 @@
+Author:		Flavio 'darkjoker' Giobergia
+Website.	http://darkjoker.github.io
+
+Compile:
+
+$ gcc -o main main.c -lSDL -lSDL_ttf
+
+SDL libraries required.
+
+Info:
+A description of the program is contained in the Monopoly.pdf file, along with
+other stuff you probably don't care about.

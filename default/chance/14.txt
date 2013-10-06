@@ -1,0 +1,2 @@
+Take a walk on the Mayfair - advance token to Mayfair
+moveto (39)

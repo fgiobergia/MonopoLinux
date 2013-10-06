@@ -1,0 +1,50 @@
+# id type data
+# S start [none]
+# P property [id 0-27]
+# C community chest [none]
+# I Income tax [none]
+# H Chance [none]
+# J Jail [none]
+# F Free Parking [none]
+# G Goto Jail [none]
+# L Luxury Tax [none]
+S
+P 0
+C
+P 1
+I
+P 2
+P 3
+H
+P 4
+P 5
+J
+P 6
+P 7
+P 8
+P 9
+P 10
+P 11
+C
+P 12
+P 13
+F
+P 14
+H
+P 15
+P 16
+P 17
+P 18
+P 19
+P 20
+P 21
+G
+P 22
+P 23
+C
+P 24
+P 25
+H
+P 26
+L
+P 27

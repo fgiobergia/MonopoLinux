@@ -1,0 +1,2 @@
+Advance to Go (Collect $200)
+moveto(0)

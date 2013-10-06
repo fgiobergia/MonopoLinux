@@ -1,0 +1,8 @@
+You are assessed for street repairs: $40 per house, $115 per hotel
+h=gethouses()
+t=gethotels()
+h=h*40
+t=t*115
+h=h+t
+h=0-h
+money(h,0)

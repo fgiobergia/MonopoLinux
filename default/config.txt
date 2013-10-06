@@ -1,0 +1,68 @@
+# Un file di configurazione contiene tutte le informazioni necessarie per 
+# modificare la maggior parte delle impostazioni di gioco.
+
+# La quantità di soldi che ogni
+# giocatore riceve all'inizio
+money_at_start = 1500
+
+# Soldi che vengono dati quando
+# si passa sul parcheggio gratuito
+# (-1: Soldi delle tasse)
+free_parking_money = 0
+
+# Soldi che vengono dati quando si 
+# passa dal Via
+money_per_lap = 200
+
+# I soldi che vengono dati vengono
+# moltiplicati per land_on_start se il giocatore
+# atterra esattamente sul via
+land_on_start = 2
+
+# Numero di proprietà per giocatore
+# assegnate all'inizio del gioco
+prop_at_beginning = 0
+
+# Se questo parametro viene messo a 1
+# e vengono assegnate delle proprietà
+# all'inizio, il prezzo delle proprietà
+# viene detratto dai soldi del giocatore
+prop_values_sub = 1
+
+# Numero massimo di case costruibili su
+# un terreno, oltre il quale bisogna
+# costruire gli hotel
+max_houses = 8
+
+# Numero massimo di hotel costruibili
+# (se il numero di hotel è maggiore di 1,
+# per costruire ogni altro hotel bisognerà
+# pagare max_houses per il prezzo di una casa
+# più il prezzo di un hotel
+max_hotels = 4
+
+# Numero di case totale massimo consentito
+# (-1: nessun limite)
+houses_available = 32
+
+# Numero di hotel totale massimo consentito
+# (-1: nessun limite)
+hotels_available = 12
+
+# Prezzo della luxury tax
+luxury_tax = 100
+
+# Prezzo della Income tax
+income_tax = 200
+
+# Prezzo da pagare per uscire di prigione
+bail = 50
+
+# Numero di turni in prigione massimo
+jail_turns = 3
+
+# Numero di tessere in Community Chest
+community_chest = 17
+
+# Numero di tessere in Chance
+chance = 17
